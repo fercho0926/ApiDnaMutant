@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiDnaMutant", "ApiDnaMutant\ApiDnaMutant.csproj", "{16B1DF2B-68B1-4355-AA55-057BB9B0A6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{19AF5EF0-3A59-4A7F-9945-24CE53823201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B1DF2B-68B1-4355-AA55-057BB9B0A6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B1DF2B-68B1-4355-AA55-057BB9B0A6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B1DF2B-68B1-4355-AA55-057BB9B0A6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B1DF2B-68B1-4355-AA55-057BB9B0A6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AF5EF0-3A59-4A7F-9945-24CE53823201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AF5EF0-3A59-4A7F-9945-24CE53823201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AF5EF0-3A59-4A7F-9945-24CE53823201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AF5EF0-3A59-4A7F-9945-24CE53823201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D54536-9227-4E10-ACD3-B06F0741C467}
+	EndGlobalSection
+EndGlobal

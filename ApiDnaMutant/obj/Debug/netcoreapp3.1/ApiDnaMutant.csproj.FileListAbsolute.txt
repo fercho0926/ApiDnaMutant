@@ -1,0 +1,133 @@
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.exe
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.deps.json
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.runtimeconfig.json
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.runtimeconfig.dev.json
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.pdb
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.csproj.AssemblyReference.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.AssemblyInfoInputs.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.AssemblyInfo.cs
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.csproj.CoreCompileInputs.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.MvcApplicationPartsAssemblyInfo.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\staticwebassets\ApiDnaMutant.StaticWebAssets.Manifest.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\staticwebassets\ApiDnaMutant.StaticWebAssets.xml
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiDnaMutant.styles.css
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.RazorTargetAssemblyInfo.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.csproj.CopyComplete
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.pdb
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.genruntimeconfig.cache
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Documentos Anny\7.0 Cursos Anny\.net core\Proyecto Api\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.exe
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.deps.json
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.runtimeconfig.json
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.runtimeconfig.dev.json
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\ApiDnaMutant.pdb
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.csproj.AssemblyReference.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.AssemblyInfoInputs.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.AssemblyInfo.cs
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\staticwebassets\ApiDnaMutant.StaticWebAssets.Manifest.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\staticwebassets\ApiDnaMutant.StaticWebAssets.xml
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiDnaMutant.styles.css
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.RazorTargetAssemblyInfo.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.pdb
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\obj\Debug\netcoreapp3.1\ApiDnaMutant.genruntimeconfig.cache
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\WorkSpaces\ApiDnaMutant\ApiDnaMutant\bin\Debug\netcoreapp3.1\Moq.dll
